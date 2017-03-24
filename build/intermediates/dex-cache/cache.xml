@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/05e98ff9764345d633b71406654f03a690e18d9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5d6c230e490ed79cd9a9af070eb98acec323bae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/MusicAPP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb6d70d9b87979e82ab4de80dcd9782a6b7cfccc">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6296f1969ceba96b07468d7567295ea651bedfa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/a89939c863e213f1b34213037f52fd5e80f01ee0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb75d97b3ad4cea4bdf110bb921ac15d8cb22d5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_dafd36196069ea8ac917b90036e551a1d20fef09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/55e3ff303a9183674b1ddf861fd6081f39f7732e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7e457d5eb124f9f911190410ed3fc8492fb9ebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/80947dab30617a471b46880d98a09e8388b76112/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0649bb4d178343d8ae30482e586d94d4e59393ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/4cc60dd595cb5a62ff276ba60b762407d0687abf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acec633b0fd541e2c912220520bfbd2df9fc81d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/f67dd3a3b18235a55c802c7f97c228779b4f9cc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8dcc78ff2f0020bf741910272041025cc7f4d453/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/MusicAPP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6b2cc736f99575778a2cf63f842d0fa703096340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/85d0436a9391c3cdb8e53ca787c05585ebfd3f15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba77a4fd40103808b094a1011b334b2f69862248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/b576b14d9cc77b11f9d9feb4a258f365f2f015ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63ad82a50a6fea4677221f7a0518b8dcd5193d05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/ee4fe38bb7b2d8e36b837589fb84c840e9675afc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db76f0214c6c149e2017709cff055d996b918130/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_e1203f6356d6d6983eb486cdbba97fd227328888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nilerror/.android/build-cache/9fdccc5ca023e602145a7f26fc5b18cd877ec782/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/nilerror/MusicAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cd89a43ff3625e5ba79f71e4e78d067270598dd/classes.dex" />
+    </item>
+
+</items>
